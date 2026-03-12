@@ -5,5 +5,5 @@ trabajo de investigación para la conservación de las tortugas en Oaxaca, playa
 # Universidad del Mar
 # Laboratorio SIG
 # Objetivo: 
-# Tipo de datos:  
+# Tipo de datos: 
 # Responsable:
